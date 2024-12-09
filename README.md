@@ -8,8 +8,8 @@
 
 ### 🌐 Socials:
 <p align="left">
-<a href="https://fb.com/moon2sun55" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" alt="moon2sun55" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@moon2sun5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="moon2sun5" height="30" width="40" /></a>
+<a href="https://fb.com/nov.phongnguyen" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" alt="moon2sun55" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nov.phongnguyen" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="moon2sun5" height="30" width="40" /></a>
 <a href="https://instagram.com/tentuilaphonq" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="tuitenlaphonq" height="30" width="40" /></a>
 </p>
 
@@ -50,7 +50,7 @@
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
   #Visitor count
-  ![:Visit count](https://count.getloli.com/get/@:moon2sun5?theme=moebooru)
+  ![:Visit count](https://count.getloli.com/get/@:novphongnguyen?theme=moebooru)
 
   #Greeting
   <img width="72" src='https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMDgxNjAsIm5iZiI6MTcxNTIwNzg2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA4VDIyMzc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkZDE0ZmZmOTNiZDRjN2I5MDNiNmIxOTU1MWQ1OGU5NzczMjMzMzE5ODhlNDkzYmM4YjU4YTdkNTU0ZjkzZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vFljfGNBOwYZC1_ODxgbOSk0DIrPHY04JSkNLfBGeVg'>
@@ -79,11 +79,11 @@
 
 <h3>📊 GitHub Stats: </h3>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nov212k1&theme=city_light&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novphongnguyen&theme=city_light&hide_border=false">
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nov212k1&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novphongnguyen&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
   <div align="left">
