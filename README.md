@@ -2,7 +2,7 @@
 
 # Introduction 
 
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Phong;I+come+from+Vietnam" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Phong;I+am+from+Viet+Nam" alt="Typing SVG" /></a>
 
 - 📫 How to reach me **ngt.phongg@gmail.com**
 
