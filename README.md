@@ -58,10 +58,10 @@
 
 <h3>🔝 Top Contributed Repo </h3>
 <div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=moon2sun5&limit=5&theme=chalk&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=novpngt&limit=5&theme=chalk&combine_all_yearly_contributions=true">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=moon2sun5&theme=city_light&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api?username=novpngt&theme=city_light&hide_border=false&include_all_commits=false&count_private=false">
 --->
 
 [//]: <> (Stats)
@@ -73,17 +73,17 @@
   </h3>
 
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/moon2sun5/moon2sun5/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/novpngt/novpngt/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div> -->
 
 <h3>📊 GitHub Stats: </h3>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novphongnguyen&theme=city_light&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novpngt&theme=city_light&hide_border=false">
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novphongnguyen&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novpngt&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
   <div align="left">
