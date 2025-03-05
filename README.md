@@ -64,32 +64,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=novpngt&theme=city_light&hide_border=false&include_all_commits=false&count_private=false">
 --->
 
-[//]: <> (Stats)
-<!-- <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
-    My Contributions 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
-  </h3>
 
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/novpngt/novpngt/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div> -->
-
-<h3>📊 GitHub Stats: </h3>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novpngt&theme=city_light&hide_border=false">
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novpngt&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
-
-  <div align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" height="30" width="40">
-  </div>
 
 ---
 ![](https://komarev.com/ghpvc/?username=moon2sun5)
